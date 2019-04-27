@@ -1,0 +1,8 @@
+.userInput {
+  background-color: rgb(255, 236, 183);
+  padding: 10px;
+  border: 1px solid rgb(228, 167, 0);
+  transform: translateX(-50%);
+  text-align: center;
+  border-radius: 10px;
+}
