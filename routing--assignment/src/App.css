@@ -1,0 +1,27 @@
+.Header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #9376ac;
+}
+
+.Header li {
+  margin: 20px 0;
+  display: inline-block;
+}
+
+.Header a {
+  margin: 0;
+  text-decoration: none;
+  color: #eee;
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.Header a:hover,
+.Header a:active,
+.Header a.active {
+  background-color: #8554af;
+}
